@@ -1,0 +1,4 @@
+python3-enrich: copyright-without-copyright-notice
+python3-enrich: initial-upload-closes-no-bugs
+python3-enrich: no-manual-page
+python3-enrich: zero-byte-file-in-doc-directory
