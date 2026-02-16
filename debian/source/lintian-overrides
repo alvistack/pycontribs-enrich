@@ -1,0 +1,4 @@
+python-enrich source: file-without-copyright-information
+python-enrich source: no-debian-changes
+python-enrich source: source-contains-prebuilt-windows-binary
+python-enrich source: source-package-encodes-python-version
